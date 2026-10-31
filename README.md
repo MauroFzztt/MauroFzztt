@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal animada: whoami, mauro, blue team y SOC en formación" width="760">
+</p>
+
 # Mauro | Blue Team / SOC en formación
 
 Estudio ciberseguridad en Mendoza, Argentina. Mi camino es **blue team**: detectar, investigar y explicar qué pasó en un ataque. También me interesa ayudar a pymes argentinas a ordenar su seguridad.
